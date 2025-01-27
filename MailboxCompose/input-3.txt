@@ -1,0 +1,14 @@
+mbox 4
+compose
+Massimo Santini <santini@unimi.it>
+"Un Bravo Studente" <bravo@studenti.unimi.it>, Studente Pigro <pigro@studenti.unizzzzz.it>
+Un altro esempio semplice
+Wed, 10 Dec 2031 18:49:17 +0100
+Ora ce ne sono due
+.
+Meno difficile non
+sarebbe possibile
+sia chiaro
+.
+read 1
+delete 1

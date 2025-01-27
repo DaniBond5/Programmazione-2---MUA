@@ -1,0 +1,18 @@
+From: Luca Prigioniero <prigioniero@di.unimi.it>
+To: "Massimo prof. Santini" <santini@di.unimi.it>, info@unimi.it
+Subject: Oggetto semplice
+Date: Wed, 6 Dec 2023 12:30:20 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=frontier
+
+This is a message with multiple parts in MIME format.
+--frontier
+Content-Type: text/plain; charset="us-ascii"
+
+Versione testuale
+--frontier
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+VmVyc2lvbmUgPHN0cm9uZz5odG1sPC9odG1sPg==
+--frontier--

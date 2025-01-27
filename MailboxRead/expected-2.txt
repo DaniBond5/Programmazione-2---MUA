@@ -1,0 +1,29 @@
++-----------------------+-------------------------------------------------------------------------------+
+| From                  | "Sig. Gianmarco Mercati" <maurilioasmundo@mastandrea-bresciani.com>           |
++-----------------------+-------------------------------------------------------------------------------+
+| To                    | ocaruso@pizzo-cattaneo.it                                                     |
+|                       | Raffaello Capuana <elisafederico@bonolis-ferragamo.eu>                        |
+|                       | Riccardo Inzaghi <fittipaldienrico@tremonti.com>                              |
++-----------------------+-------------------------------------------------------------------------------+
+| Subject               | Algoritmo persistente real-time                                               |
++-----------------------+-------------------------------------------------------------------------------+
+| Date                  | 2023-12-03T03:18:01+01:00                                                     |
++-----------------------+-------------------------------------------------------------------------------+
+| Part                  | This is a message with multiple parts in MIME format.                         |
+| multipart/alternative |                                                                               |
++-----------------------+-------------------------------------------------------------------------------+
+| Part                  | Ut ad ipsa. Repellat fugiat veniam itaque veritatis doloribus veniam          |
+| text/plain            | voluptatibus. Quae asperiores illum. Aperiam cumque reiciendis nobis          |
+|                       | eum beatae harum. Odit eligendi saepe ipsum laudantium provident              |
+|                       | commodi. Nulla unde possimus suscipit in. Et eius neque ad vel. Natus         |
+|                       | distinctio at dicta voluptatibus. Dicta consequatur nemo eius.                |
+|                       | Quibusdam laborum fugiat voluptatibus sunt modi. Error reprehenderit          |
+|                       | fugit nihil voluptates in nesciunt.                                           |
++-----------------------+-------------------------------------------------------------------------------+
+| Part                  | <html>Laboriosam sunt fuga dolor. Modi fuga soluta a consequuntur.            |
+| text/html             | Voluptatem cumque voluptatum dolorum consectetur perferendis quia             |
+|                       | pariatur. Officia aut eum rerum alias. Molestiae sint minus vero              |
+|                       | veritatis. Earum commodi molestiae labore repellat dolore. Repudiandae        |
+|                       | velit consequuntur eum at magnam. Praesentium ducimus assumenda alias.</html> |
++-----------------------+-------------------------------------------------------------------------------+
+

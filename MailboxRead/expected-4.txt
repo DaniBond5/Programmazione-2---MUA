@@ -1,0 +1,30 @@
++-----------------------+--------------------------------------------------------------------------+
+| From                  | hferretti@forza-bompiani.com                                             |
++-----------------------+--------------------------------------------------------------------------+
+| To                    | Orlando Leopardi <boitoenrico@farinelli.com>                             |
++-----------------------+--------------------------------------------------------------------------+
+| Subject               | Codifica organica scalabile                                              |
++-----------------------+--------------------------------------------------------------------------+
+| Date                  | 2023-12-01T19:38:30+01:00                                                |
++-----------------------+--------------------------------------------------------------------------+
+| Part                  | This is a message with multiple parts in MIME format.                    |
+| multipart/alternative |                                                                          |
++-----------------------+--------------------------------------------------------------------------+
+| Part                  | Magnam cum minima velit aliquam quisquam nemo. Nulla libero sit saepe    |
+| text/plain            | modi suscipit consequatur. Sequi praesentium laborum optio quasi         |
+|                       | deserunt. Necessitatibus nobis enim ipsum. Incidunt expedita neque eum   |
+|                       | sunt dignissimos provident. Officiis quisquam dolor maxime eveniet vel   |
+|                       | aperiam. Ex voluptatum amet consequatur dolorum nulla. Non similique     |
+|                       | sed voluptatibus atque sequi. Harum itaque laborum quidem nemo iste      |
+|                       | praesentium. Reprehenderit quas voluptas nobis iusto quia facilis        |
+|                       | corporis. Neque in vero.                                                 |
++-----------------------+--------------------------------------------------------------------------+
+| Part                  | <html>Debitis placeat totam facilis molestiae excepturi sapiente. Maxime |
+| text/html             | sequi molestiae esse neque libero. Quo autem repellat odit mollitia.     |
+|                       | Qui accusamus dolor facilis praesentium. Eum deserunt commodi quia       |
+|                       | nihil. Nostrum accusamus ullam possimus tempore distinctio               |
+|                       | praesentium. Ipsum est dolorum voluptate. Necessitatibus totam quaerat   |
+|                       | beatae nobis voluptatibus laborum. In repellendus distinctio dolor       |
+|                       | repellendus dolorum.</html>                                              |
++-----------------------+--------------------------------------------------------------------------+
+

@@ -1,0 +1,8 @@
+From: Luca Prigioniero <prigioniero@di.unimi.it>
+To: "Massimo prof. Santini" <santini@di.unimi.it>, info@unimi.it
+Subject: =?utf-8?B?T2dnZXR0byB1biBwbycgY29zw6w=?=
+Date: Wed, 6 Dec 2023 12:30:20 +0100
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+VmVyc2lvbmUgdGVzdHVhbGUgcGVyw7I=

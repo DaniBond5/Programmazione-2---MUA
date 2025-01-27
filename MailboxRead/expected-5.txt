@@ -1,0 +1,80 @@
++-----------------------+------------------------------------------------------------------------+
+| From                  | Sandra Inzaghi-Vittadello <ruggiero68@sagnelli-letta.net>              |
++-----------------------+------------------------------------------------------------------------+
+| To                    | dmastroianni@rusticucci.it                                             |
++-----------------------+------------------------------------------------------------------------+
+| Subject               | Benchmark adattiva composita                                           |
++-----------------------+------------------------------------------------------------------------+
+| Date                  | 2023-12-01T08:19:02+01:00                                              |
++-----------------------+------------------------------------------------------------------------+
+| Part                  | This is a message with multiple parts in MIME format.                  |
+| multipart/alternative |                                                                        |
++-----------------------+------------------------------------------------------------------------+
+| Part                  | Doloremque perferendis eveniet. Minus veniam possimus quis nisi        |
+| text/plain            | commodi iste. Consequatur praesentium perferendis deserunt repellat    |
+|                       | corrupti. Iure voluptate quam a eaque incidunt aliquid placeat.        |
+|                       | Accusantium ex itaque qui non. Modi id numquam ipsum. Accusamus odit   |
+|                       | exercitationem illo veritatis reprehenderit reprehenderit.             |
++-----------------------+------------------------------------------------------------------------+
+| Part                  | <html>Aliquam inventore occaecati laborum. Molestiae amet nam commodi  |
+| text/html             | impedit fuga esse. Dolores nisi aspernatur magnam corrupti fugiat. Non |
+|                       | officia animi asperiores sapiente quas. Officia blanditiis             |
+|                       | perspiciatis praesentium enim fugit. Asperiores molestiae placeat      |
+|                       | occaecati quidem. Nesciunt laborum autem illo. Sit labore nulla illum  |
+|                       | architecto non. Maiores aut nisi occaecati dolores saepe. Totam labore |
+|                       | soluta molestias omnis molestias laborum sed. Perferendis at iste ea.  |
+|                       | Eos veniam officiis optio eaque unde.</html>                           |
++-----------------------+------------------------------------------------------------------------+
+
++-----------------------+------------------------------------------------------------------------+
+| From                  | Alphons Vidoni <navarriapasqual@cendron-pertini.com>                   |
++-----------------------+------------------------------------------------------------------------+
+| To                    | adele59@majorana.org                                                   |
++-----------------------+------------------------------------------------------------------------+
+| Subject               | Metodologia migliòrata non-volatile                                    |
++-----------------------+------------------------------------------------------------------------+
+| Date                  | 2023-12-04T18:34:50+01:00                                              |
++-----------------------+------------------------------------------------------------------------+
+| Part                  | This is a message with multiple parts in MIME format.                  |
+| multipart/alternative |                                                                        |
++-----------------------+------------------------------------------------------------------------+
+| Part                  | Temporibus dicta laboriosam laudantium excepturi facilis. Odio minima  |
+| text/plain            | earum. Deleniti omnis vel vel laudantium mollitia vel. Laborum vitae   |
+|                       | voluptatem aut architecto eaque placeat. Aperiam perferendis           |
+|                       | doloremque sapiente dolore neque saepe. Neque molestias odio ducimus   |
+|                       | autem aspernatur. Vitae corrupti veniam asperiores ullam nam. Modi     |
+|                       | quos magni iure autem eaque aperiam sed. Quaerat unde sunt minima      |
+|                       | deserunt unde. Nam est odit ullam. Quisquam eos harum corporis         |
+|                       | repellat.                                                              |
++-----------------------+------------------------------------------------------------------------+
+| Part                  | <html>Laudantium dolore saepe quibusdam molestiae. Eligendi nobis      |
+| text/html             | reprehenderit inventore consequuntur nulla. Vitae veniam ratione error |
+|                       | incidunt ducimus laudantium. Atque adipisci dicta dolorem. In corporis |
+|                       | ducimus dignissimos. Et voluptate labore impedit quis ducimus repellat |
+|                       | vel. Occaecati cumaperiam porro exercitationem ad. Porro aut amet ex   |
+|                       | iste eligendi voluptatum. Assumenda impedit dicta rem quo nemo.        |
+|                       | Necessitatibus hic facere voluptates dignissimos non omnis.            |
+|                       | Dignissimos veritatis adipisci molestias qui eos eos. Deserunt cumque  |
+|                       | dolore nesciunt quam culpa possimus. Veniam nisi ea quos maiores illum |
+|                       | temporibus.</html>                                                     |
++-----------------------+------------------------------------------------------------------------+
+
++------------+------------------------------------------------------------------------+
+| From       | Orlando Leopardi <mariagiannelli@viola.com>                            |
++------------+------------------------------------------------------------------------+
+| To         | Valentina Giolitti-Sraffa <onorbiato@pacomio.com>                      |
+|            | ocaruso@turci.com                                                      |
++------------+------------------------------------------------------------------------+
+| Subject    | Core sicura discreta                                                   |
++------------+------------------------------------------------------------------------+
+| Date       | 2023-12-04T20:09:34+01:00                                              |
++------------+------------------------------------------------------------------------+
+| Part       | Tempora dolore amet ratione eum voluptate reiciendis. Dolore in        |
+| text/plain | commodi vitae eos maiores est ea. Dolor voluptatem facere voluptas     |
+|            | optio. Iusto est quisquam nulla reprehenderit natus eveniet. Aut dicta |
+|            | laudantium nihil at laudantium. Cumque eos animi. Unde tempora         |
+|            | tenetur. Quos explicabo neque officiis explicabo harum. Maxime quia    |
+|            | rem cum. Repellat ab et expedita porro ab aut. Alias id occaecati      |
+|            | animi.                                                                 |
++------------+------------------------------------------------------------------------+
+

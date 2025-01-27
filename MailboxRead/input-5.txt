@@ -1,0 +1,6 @@
+mbox 3
+read 3
+mbox 2
+read 1
+mbox 1
+read 2

@@ -1,0 +1,31 @@
++-----------------------+----------------------------------------------------------------------------+
+| From                  | Gioacchino Costanzi <adelmo01@sagnelli-letta.net>                          |
++-----------------------+----------------------------------------------------------------------------+
+| To                    | "Sig.ra Patrizia Pisano" <elianamazzanti@abatantuono.it>                   |
+|                       | Lilla Manolesso <ocaruso@casalodi-bataglia.org>                            |
+|                       | Matilda Ovadia-Cipolla <serrigo@giacometti.org>                            |
+|                       | fiorenzo61@forza-bompiani.com                                              |
++-----------------------+----------------------------------------------------------------------------+
+| Subject               | Core sicura discreta                                                       |
++-----------------------+----------------------------------------------------------------------------+
+| Date                  | 2023-12-05T10:00:17+01:00                                                  |
++-----------------------+----------------------------------------------------------------------------+
+| Part                  | This is a message with multiple parts in MIME format.                      |
+| multipart/alternative |                                                                            |
++-----------------------+----------------------------------------------------------------------------+
+| Part                  | Ullam nihil voluptas ipsa. Optio ea sint cumque assumenda mollitia.        |
+| text/plain            | Harum alias enim velit. Aut ea similique voluptate. Cumque alias animi     |
+|                       | occaecati sint laborum. Quo magnam magnam quasi. Atque occaecati vero      |
+|                       | impedit. Nihil illum ipsum inventore exercitationem. Impedit at            |
+|                       | eveniet perspiciatis ducimus quos rem. Quo cumque fugit dolores est        |
+|                       | ullam. Laborum natus officia sit pariatur consequatur.                     |
++-----------------------+----------------------------------------------------------------------------+
+| Part                  | <html>Aspernatur voluptate asperiores. Aut sit nisi alias rem. Repellendus |
+| text/html             | quidem fugit. Minus neque eius eos error quaerat aliquam. Consectetur      |
+|                       | magni quisquam accusantium doloribus. Rem ut adipisci dolorum              |
+|                       | quibusdam. Magnam quaerat esse provident tempore voluptatibus.             |
+|                       | Consequuntur explicabo magni laborum accusantium. Exercitationem           |
+|                       | inventore voluptatum odio recusandae. Earum ut laborum. Libero             |
+|                       | dignissimos architecto.</html>                                             |
++-----------------------+----------------------------------------------------------------------------+
+

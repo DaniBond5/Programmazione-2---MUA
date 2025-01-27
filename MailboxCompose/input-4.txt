@@ -1,0 +1,12 @@
+mbox 4
+compose
+Massimo Santini <santini@unimi.it>
+"Un Bravo Studente" <bravo@studenti.unimi.it>, Studente Pigro <pigro@studenti.unizzzzz.it>
+Un altro più difficile
+Tue, 10 Dec 2030 18:50:54 +0100
+Con dei gran
+perché
+.
+.
+read 1
+delete 1

@@ -1,0 +1,25 @@
+Fragment
+	Raw headers:
+		Raw type = from, value = Luca Prigioniero <prigioniero@di.unimi.it>
+		Raw type = to, value = "Massimo prof. Santini" <santini@di.unimi.it>, info@unimi.it
+		Raw type = subject, value = =?utf-8?B?T2dnZXR0byB1biBwbycgY29zw6w=?=
+		Raw type = date, value = Wed, 6 Dec 2023 12:30:20 +0100
+		Raw type = mime-version, value = 1.0
+		Raw type = content-type, value = multipart/alternative; boundary=frontier
+	Raw body: 
+		This is a message with multiple parts in MIME format.
+
+Fragment
+	Raw headers:
+		Raw type = content-type, value = text/plain; charset="utf-8"
+		Raw type = content-transfer-encoding, value = base64
+	Raw body: 
+		VmVyc2lvbmUgdGVzdHVhbGUgcGVyw7I=
+
+Fragment
+	Raw headers:
+		Raw type = content-type, value = text/html; charset="utf-8"
+		Raw type = content-transfer-encoding, value = base64
+	Raw body: 
+		VmVyc2lvbmUgPHN0cm9uZz5odG1sPC9odG1sPg==
+
